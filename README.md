@@ -1,12 +1,6 @@
-Markup :  # Heading 1 #
-
--OR-
-
-Markup :  ============= (below H1 text)
-
-Markup :  # alx-low_level_programming #
-
-Markup : 1. 212 0x00. C - Hello, World
+# alx-low_level_programming #
+ 
+         1. 212 0x00. C - Hello, World
          2. 213 0x01. C - Variables, if, else, while
          3. 214 0x02. C - Functions, nested loops 
          4. 215 0x04. C - More functions, more nested loops 
